@@ -5,3 +5,10 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.container {
+  border: 1px solid black;
+  height: 65.5vmin;
+  width: 95vmin;
+  position: relative;
+}
