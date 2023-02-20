@@ -33,5 +33,9 @@ img {
   position: relative;
   -webkit-appearance: none;
   width: calc(100% + 40px);
-  background-color: black;
+  height: 100%;
+  margin-left: -20px;
+  background-color: transparent;
+  outline: none;
 }
+
